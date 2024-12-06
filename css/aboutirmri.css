@@ -1,0 +1,248 @@
+
+.topbar{
+    height: 60px;
+    width: 100%;
+    background-color: #0b2239;
+    color: white;
+}
+.topbar i{
+    padding: 20px 25px;
+
+}
+.topbar span{
+    float: right;
+    padding-top: 10px;
+    margin-right: 20px;
+}
+.topdown{
+    width: 100%;
+    background-color:white;
+    padding-top: 25px;
+}
+.logo{
+    height: 121px;
+}
+.toptop{
+    padding-top: 20px;
+}
+.topdown h5{
+    color:green;
+    padding-left: 20px;
+}
+.toptop h6{
+    color: green;
+    padding-left: 106px;
+}
+ .toptop p{
+    padding-left: 22px;
+    font-size: 12px;
+}
+.topcorner{
+    height: 10px;
+}
+.topright{
+    width: 36%;
+    padding-top: 13px;}
+.topleft{
+    width: 50% ;
+
+}
+ .first{
+    height: 80px;
+    padding-top: 29px;
+    background-color:orange;
+}
+ .first li{
+    display: inline;
+    padding-left: 47px;
+    font-weight: 700;
+    font-size: 16px;
+}
+.pageheader{
+    height: 200px;
+    background-size: cover;
+    background-image: url('/photos/page-header.jpg');
+    color: white;
+}
+.pageheader h1{
+    padding-top:72px;
+    padding-left:43%;
+}
+.pageheader span{
+    padding-left: 43%;
+}
+.latestnews{
+    background-color:orange;
+    height: 40px;
+    border-radius: 20px;
+}
+.sidebanner{
+    height: 40px;
+    background-color:green;
+    border-radius: 20px 10px;
+    font-size: 20px; 
+    padding:2px 27px;
+}
+.irmribg{
+    background-image: url('/photos/irmri\ bg.png');
+    height: 680px;
+    background-size: cover;
+
+}
+.img{
+    border: 12px solid white;
+    border-bottom-right-radius: 106px;
+    border-top-left-radius: 85px;
+    margin-top: -118px;
+    margin-left: 105px;
+
+}
+.imgone{
+    border: 12px solid white;
+    border-bottom-right-radius: 60px;
+    border-top-left-radius: 63px;
+
+}
+.detail h5{
+    color: green;
+    padding-top: 45px;
+
+}
+.detail p{
+    font-size: 17px;
+    text-align: justify;
+}
+.irmribgone{
+    background-image: url('/photos/bg2.jpg');
+}
+.qualitypoints{
+    color: white;
+    padding-left: 120px;
+    padding-top: 52px;
+}
+.qualitypoints p{
+    padding-top: 20px;
+    font-size: 17px;
+}
+.vision{
+    background-color:whitesmoke;
+    height: 500px;
+   
+}
+.vision h2{
+    text-align: center;
+    padding-top: 30px;
+}
+.visionone{
+    padding-top: 35px;
+}
+.value{
+    background-color:white;
+    height: 330px;
+}
+.value img{
+    width: 90%;
+    margin:18px;
+}
+.value h5,p{
+    padding-left: 26px;
+    text-align: justify;
+    padding-right: 26px;
+}
+.value h5{
+    color: green;
+}
+.value span{
+    text-align: justify;
+    padding-left: 26px;
+}
+.value span i{
+    color: green;
+}
+.accrediatins{
+
+}
+.accrediatins h3{
+    text-align: center;
+    padding-top: 50px;
+}
+.certificates img{
+    border: 2px solid orange;
+    border-radius: 4%;
+    margin-top: 25px;
+    width: 24%;
+}
+.certi{
+    position: relative;
+    left:400px ;
+
+}
+.krishanfour{
+    background-image: url('/photos/bg3.jpg');
+    color: white;
+    background-size: cover;
+    padding-top: 35px;
+
+}
+.lastbar{
+    height: 400px;
+    padding-left: 100px;
+}
+.lastbar p{
+   font-size: 16px;
+   text-align: justify;
+   padding-left:1px ;
+}
+.place{
+    width: 100%;
+    height: 55px;
+    padding: 14px 10px 14px 45px;
+    color: #fff;
+    background-color: #091c30;
+    border: 1px solid #12375e;
+     margin-top: 20px;
+}
+.place:hover{
+    border-color: white;
+}
+.logodesign i{
+    height: 45px;
+    color: #091c30;
+    background-color: orange;
+    border-radius: 100%;
+    margin-top: 25px;
+    width: 45px;
+    padding-top: 14px;
+    padding-left: 14px;
+}
+
+.listone li{
+    list-style-type: none;
+    padding-top: 20px;
+}
+ .listtwo{
+    padding-top: 21px;
+ } 
+ .listtwo li{
+    padding-top: 24px;
+    list-style-type: none;
+ }
+ .listthree li{
+    padding-top: 20px;
+    list-style-type: none;
+  }
+   .listthree img{
+    width: 200px;
+   }
+   .sliderone h4{
+    padding-left: 18px;
+   }
+   .sliderone img{
+    margin-top: 15px;
+    padding-left: 25px;
+    height: 45px;
+   }
+   .verify{
+    padding-left: 132px;
+
+   }

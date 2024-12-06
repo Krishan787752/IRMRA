@@ -1,0 +1,22 @@
+.top{
+    height: 120px;
+    width: 100%;
+    background-color: rgb(255, 255, 255);
+}
+.top img{
+    height: 120px;
+}
+ul{
+    list-style-type:none;
+}
+li a{
+    float: left;
+    padding: 18px 18px;
+    text-decoration: none;
+    color: rgb(15, 5, 26);
+}
+li a:hover{
+color: brown;
+display: block;
+font-weight: bold;
+}

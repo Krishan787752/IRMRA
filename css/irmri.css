@@ -1,0 +1,525 @@
+.topbar{
+    height: 60px;
+    width: 100%;
+    background-color: #0b2239;
+    color: white;
+}
+.topbar i{
+    padding: 20px 25px;
+
+}
+.topbar span{
+    float: right;
+    padding-top: 10px;
+    margin-right: 20px;
+}
+.topdown{
+    width: 100%;
+    background-color:white;
+    padding-top: 25px;
+}
+.logo{
+    height: 121px;
+}
+.toptop{
+    padding-top: 20px;
+}
+.topdown h5{
+    color:green;
+    padding-left: 20px;
+}
+.toptop h6{
+    color: green;
+    padding-left: 106px;
+}
+p{
+    padding-left: 22px;
+    font-size: 12px;
+}
+.topcorner{
+    height: 10px;
+}
+.topright{
+    width: 36%;
+    padding-top: 13px;}
+.topleft{
+    width: 50% ;
+
+}
+ .first{
+    height: 80px;
+    padding-top: 29px;
+    background-color:orange;
+    position: sticky;
+    top: 0px;
+}
+
+.first li{
+    display: inline;
+    padding-left: 40px;
+    font-weight: 700;
+    font-size: 16px;
+}
+ .first li a{
+    color: black;
+    list-style-type: none;
+    text-decoration: none;
+}
+.longsize{
+     height: 500px;
+     width: 100%;
+     background-repeat: no-repeat;
+     background-size: cover;
+     margin-top: 27px;
+
+
+     
+} 
+.leftbanner{
+    background-color: black;
+    height: 500px;
+}
+
+ .leftbanner img{
+    height: 500px;
+    width: 100%;
+    padding-bottom: 36px;
+}
+.rightbanner{
+    background-color: black;
+    height: 500px;
+
+}
+.rightbanner img{
+    height: 500px;
+    width: 100%;
+    padding-bottom: 36px;
+}
+.latestnews{
+    background-color:orange;
+    height: 40px;
+    border-radius: 20px;
+}
+.sidebanner{
+    height: 40px;
+    background-color:green;
+    border-radius: 20px 10px;
+    font-size: 20px; 
+    padding:2px 27px;
+}
+.banner{
+    height: 120px;
+    width: 100%;
+    background-color: burlywood;
+}
+.firstt{
+    height: 60px;;
+    width:60px;
+    margin-top: 20px;
+}
+.secondbar{
+    width: 25%;
+    height: 120px;
+    background-color: bisque;
+}
+.paragraph{
+    font-size: 11px; font-weight: bold;
+}
+.backgroundarea{
+    height: 1200px;
+    background-size: cover;
+    background-image: url('/photos/background\ image.jpg');
+}
+  .firsttt{
+    width: 170px;
+    margin-top: 60px;height:180px;background-color: rgb(216, 216, 216);display: flex;align-items: center;flex-direction: column;
+  } 
+  .firsttt:hover{
+    top: -10px;
+    position: relative;
+    border-bottom: 4px solid green;
+    background-color: orange;
+  }
+  .second{
+    width: 170px; margin-top: 60px;height:180px;background-color: rgb(216, 216, 216);display: flex;align-items: center;flex-direction: column;
+  }
+  .second:hover{
+    top: -10px;
+    position: relative;
+    border-bottom: 4px solid green;
+    background-color: orange;
+  }
+  .third{
+    width: 170px; margin-top: 60px;height:180px;background-color: rgb(216, 216, 216);display: flex;align-items: center;flex-direction: column;
+  }
+  .third:hover{
+    top: -10px;
+    position: relative;
+    border-bottom: 4px solid green;
+    background-color: orange;
+  }
+  .fourth{
+    width: 170px; margin-top: 60px;height:180px;background-color: rgb(216, 216, 216);display: flex;align-items: center;flex-direction: column;
+  }
+  .fourth:hover{
+    top: -10px;
+    position: relative;
+    border-bottom: 4px solid green;
+    background-color: orange;
+  }
+  .fifth{
+    width: 170px; margin-top: 60px;height:180px;background-color: rgb(216, 216, 216);display: flex;align-items: center;flex-direction: column;
+  }
+  .fifth:hover{
+    top: -10px;
+    position: relative;
+    border-bottom: 4px solid green;
+    background-color: orange;
+  }
+  .sixth{
+    width: 170px; margin-top: 60px;height:180px;background-color: rgb(216, 216, 216);display: flex;align-items: center;flex-direction: column;
+  }
+  .sixth:hover{
+    top: -10px;
+    position: relative;
+    border-bottom: 4px solid green;
+    background-color: orange;
+  }
+  .seventh{
+        width: 170px; margin-top: 60px;height:180px;background-color: rgb(216, 216, 216);display: flex;align-items: center;flex-direction: column;
+        padding-top: 30px;
+        margin-left: 43%;
+  }
+  .seventh:hover{
+    top: -10px;
+    position: relative;
+    border-bottom: 4px solid green;
+    background-color: orange;
+  }
+.area{
+    background-color:white;
+    height:600px;
+    margin-top: 48px;
+}
+.image {
+    margin-top: 74px;
+    }
+    .image img{
+        border: 10px solid whitesmoke;
+    }
+.area h1 {
+    font-size: 60px;
+    padding-left: 20px;
+    padding-top: 10px;
+}
+.area p{
+      font-size: medium;
+}
+.button{
+    background-color: green;
+    color: white;
+    height: 42px;
+    /* padding-left: 22px; */
+    margin-left: 24px;
+    width: 194px;
+}
+.downone{
+    background-color: whitesmoke;
+
+}
+.downone img{
+    width: 80%;
+    margin-left: 35px;
+    margin-top: 30px;
+}
+.downone h5{
+    text-align: center;
+    padding-top: 10px;
+}
+.viewdetails{
+    text-align: center;
+}
+.downone:hover{
+    border-bottom: 2px solid green;
+    position:relative;
+    margin-top: -25px;
+}
+.downone h5:hover{
+     color: green;
+}
+.downone p{
+    font-size: 19px;
+}
+.downtwo{
+    background-color: whitesmoke;
+}
+.downtwo:hover{
+    border-bottom: 2px solid green;
+    position:relative;
+    margin-top: -25px;
+}
+.downtwo img{
+    width: 80%;
+    margin-left: 34px;
+    margin-top: 28px;
+}
+.downtwo h5{
+    text-align: center;
+    padding-top: 10px;
+}
+.downtwo p{
+    font-size: 19px;
+    padding-top: 30px;
+}
+.downthree{
+    height: 450px;
+    background-color: whitesmoke;
+}
+.downthree:hover{
+    border-bottom: 2px solid green;
+    position:relative;
+    margin-top: -25px;
+}
+  .downthree h5{
+    text-align: center;
+    padding-top: 10px;
+  }
+  .downthree p{
+    font-size: 19px;
+  }
+.downthree img{
+    width: 80%;
+    margin-left: 35px;
+    margin-top: 30px;
+}
+.downfour{
+    background-color: whitesmoke;
+    width: 100%;
+     margin-left: 130px;
+     margin-top: 40px;
+}
+.downfour:hover{
+    border-bottom: 2px solid green;
+    position:relative;
+    margin-top: -5px;
+}
+.downfour img{
+    width: 80%;
+    margin-left: 35px;
+    margin-top: 30px;
+
+}
+.downfour h5{
+    text-align: center;
+    padding-top: 10px;
+}
+.downfour p{
+    font-size: 19px;
+}
+.downfive{
+    background-color: whitesmoke;
+    margin-left: 200px;
+    width:100%;
+    margin-top: 40px;
+}
+.downfive:hover{
+    border-bottom: 2px solid green;
+    position:relative;
+    margin-top: -5px;
+    color: green;
+}
+.rubby:hover{
+    color: aquamarine;
+}
+.downfive img{
+    width: 80%;
+    margin-left: 35px;
+    margin-top: 30px;
+}
+.downfive h5{
+    text-align: center;
+    padding-top: 10px;
+}
+.downfive p{
+    font-size: 19px;
+    text-align: center;
+}
+.slider{
+    height: 600px;
+    background-color:azure;
+}
+.carousel-item iframe{
+    width: 31%;
+    margin-left: 10px;
+    height: 300px;
+}
+.padtop{
+    padding-top: 40px;
+}
+.sliderr{
+    margin-left:74px;
+}
+.sliderr li{
+    height: 400px;
+}
+.rightslider{
+    height: 400px;
+    overflow-y: scroll;
+
+    width: 100%;
+}
+.rightslider li{
+    width: 100%;
+    
+}
+.baner{
+    text-align: center;
+}
+.sliderr h2{
+    text-align: center;
+}
+.success{
+    margin-top: 12px;
+    margin-left: 101px;
+    background-color: green;
+}
+.krishan{
+    background-image: url('/photos/bg\ 2.jpg');
+    height: 430px;
+    background-size: cover;
+    color: white;
+}
+.krishan h2{
+    text-align: center;
+    padding-top: 42px;
+}
+.krishana{
+    background-color:orange;
+    height: 250px;
+    margin-left: 100px;
+    padding-left: 42px;
+}
+.krishana img{
+    border: 6px solid #fff;
+    padding-bottom: 60px;
+    margin-top: 24px;}
+.krishanaone{
+    background-color: white;
+    width: 56%;
+    color: black;
+}
+.krishanaone p{
+    padding-left: 0px;
+    font-size: 16px;
+    text-align: justify;
+}
+.krishanaone img{
+     float: left;
+     height: 126px;
+}
+.krishanaone h5{
+    padding-top: 15px;
+}
+.krishanaa{
+    background-color:orange;
+    height: 250px;
+    padding-left: 42px;
+}
+.krishanaa img{
+    border: 6px solid #fff;
+    padding-bottom: 60px;
+    margin-top: 24px;}
+.krishanaaone{
+    background-color: white;
+    width: 56%;
+    color: black;
+}
+.krishanaaone p{
+    padding-left: 0px;
+    font-size: 16px;
+    text-align: justify;
+}
+.krishanaaone img{
+     float: left;
+     height: 126px;
+}
+.krishanaaone h5{
+    padding-top: 15px;
+}
+.krishanthree{
+    height: 180px;
+}
+.krishanthree img{
+    margin-left: 65px;
+    margin-top: 33px;
+}
+.krishanfour{
+    background-image: url('/photos/bg3.jpg');
+    color: white;
+    background-size: cover;
+    padding-top: 35px;
+
+}
+.lastbar{
+    height: 400px;
+    padding-left: 100px;
+}
+.lastbar p{
+   font-size: 16px;
+   text-align: justify;
+   padding-left:1px ;
+}
+.place{
+    width: 100%;
+    height: 55px;
+    padding: 14px 10px 14px 45px;
+    color: #fff;
+    background-color: #091c30;
+    border: 1px solid #12375e;
+     margin-top: 20px;
+}
+.place:hover{
+    border-color: white;
+}
+.logodesign i{
+    height: 45px;
+    color: #091c30;
+    background-color: orange;
+    border-radius: 100%;
+    margin-top: 25px;
+    width: 45px;
+    padding-top: 14px;
+    padding-left: 14px;
+}
+
+.listone li{
+    list-style-type: none;
+    padding-top: 20px;
+}
+ .listtwo{
+    padding-top: 21px;
+ } 
+ .listtwo li{
+    padding-top: 24px;
+    list-style-type: none;
+ }
+ .listthree li{
+    padding-top: 20px;
+    list-style-type: none;
+  }
+   .listthree img{
+    width: 200px;
+   }
+   .sliderone h4{
+    padding-left: 18px;
+   }
+   .sliderone img{
+    margin-top: 15px;
+    padding-left: 25px;
+    height: 45px;
+   }
+   .verify{
+    padding-left: 132px;
+
+   }
+
